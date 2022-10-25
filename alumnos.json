@@ -1,0 +1,182 @@
+[
+    {
+      "id": 1,
+      "nombre": "JAVIERA PAZ BECERRA DIAZ",
+      "username": "ja.becerrad",
+      "password": "123456"      
+    },
+    {
+      "id": 2,
+      "nombre": "NELLY BECERRA GAMIETEA",
+      "username": "ne.becerra",
+      "password": "123456"     
+    },
+    {
+      "id": 3,
+      "nombre": "MATIAS ISMAEL BERMUDEZ OLMOS",
+      "username": "ma.bermudez",
+      "password": "123456"     
+    },
+    {
+      "id": 4,
+      "nombre": "MATIAS IGNACIO BERRIOS ORTEGA",
+      "username": "mat.berrios",
+      "password": "123456"     
+    },
+    {
+      "id": 5,
+      "nombre": "HYRUM BENJAMIN BUSTOS FERNANDEZ",
+      "username": "hy.bustos",
+      "password": "123456"
+    },
+    {
+      "id": 6,
+      "nombre": "ISMAEL GUSTAVO CABRERA LOYOLA",
+      "username": "isma.cabrera",
+      "password": "123456"
+    },
+    {
+      "id": 7,
+      "nombre": "FRANCISCO JAVIER CARROZA VALDES",
+      "username": "fra.carroza",
+      "password": "123456"
+    },
+    {
+      "id": 8,
+      "nombre": "MAURICIO ALEXIS CHACANA TOBAR",
+      "username": "maur.chacana",
+      "password": "123456"
+    },
+    {
+      "id": 9,
+      "nombre": "DIEGO JESUS CORTEZ FLORES",
+      "username": "di.cortez",
+      "password": "123456"
+    },
+    {
+      "id": 10,
+      "nombre": "JAVIER ALEJANDRO DIAZ ACUÑA",
+      "username": "j.diaz2",
+      "password": "123456"
+    },
+    {
+      "id": 11,
+      "nombre": "MICHAEL ANDRES ENCINA GUZMAN",
+      "username": "mi.encina",
+      "password": "123456"
+    },
+    {
+      "id": 12,
+      "nombre": "MATIAS ESPINOZA FARIAS",
+      "username": "mati.espinoza",
+      "password": "123456"
+    },
+    {
+      "id": 13,
+      "nombre": "NICOLAS ALEXANDER ESPINOZA TAIBA",
+      "username": "ni.espinozat",
+      "password": "123456"
+    },
+    {
+      "id": 14,
+      "nombre": "CATALINA ALMENDRA ESQUIVEL OLIVARES",
+      "username": "cat.esquivel",
+      "password": "123456"
+    },
+    {
+      "id": 15,
+      "nombre": "JEFFRY HERNAN FARIAS MOLINA",
+      "username": "je.farias",
+      "password": "123456"
+    },
+    {
+      "id": 16,
+      "nombre": "OMAR IGNACIO GUERRA ALFARO",
+      "username": "om.guerra",
+      "password": "123456"
+    },
+    {
+      "id": 17,
+      "nombre": "BRYAN NAVARRETE VALDOVINOS",
+      "username": "br.navarrete",
+      "password": "123456"
+    },
+    {
+      "id": 18,
+      "nombre": "BASTIAN ALEJANDRO PACHECO AGUILERA",
+      "username": "b.pacheco",
+      "password": "123456"
+    },
+    {
+      "id": 19,
+      "nombre": "NICOLAS JAVIER QUIJADA DELGADILLO",
+      "username": "n.quijada",
+      "password": "123456"
+    },
+    {
+      "id": 20,
+      "nombre": "RODRIGO ANDREE RIQUELME OLGUIN",
+      "username": "ro.riquelme",
+      "password": "123456"
+    },
+    {
+      "id": 21,
+      "nombre": "IGNACIO NICOLAS TAPIA ACUNA",
+      "username": "igna.tapia",
+      "password": "123456"
+    },
+    {
+      "id": 22,
+      "nombre": "JORDANO IVAN TAPIA RIVERO",
+      "username": "jord.tapiar",
+      "password": "123456"
+    },
+    {
+      "id": 23,
+      "nombre": "NICOLAS ENRIQUE TOLEDO CAMILLA",
+      "username": "nico.toledo",
+      "password": "123456"
+    },
+    {
+      "id": 24,
+      "nombre": "CLAUDIO IGNACIO VALDIVIA PARRA",
+      "username": "clau.valdivia",
+      "password": "123456"
+    },
+    {
+      "id": 25,
+      "nombre": "PABLO VALDIVIA SALINAS",
+      "username": "pab.valdivia",
+      "password": "123456"
+    },
+    {
+      "id": 26,
+      "nombre": "PAOLO ADRIAN VALENCIA PEDRAZA",
+      "username": "paol.valenciap",
+      "password": "123456"
+    },
+    {
+      "id": 27,
+      "nombre": "MATIAS FRANCISCO IGNACIO VALENZUELA PEREZ",
+      "username": "matif.valenzue",
+      "password": "123456"
+    },
+    {
+      "id": 28,
+      "nombre": "ENZO FABIAN VALLADARES TORO",
+      "username": "en.valladares",
+      "password": "123456"
+    },
+    {
+      "id": 29,
+      "nombre": "FELIPE IGNACIO VASQUEZ GALVEZ",
+      "username": "feli.vasquezg",
+      "password": "123456"
+    },
+    {
+      "id": 30,
+      "nombre": "DANIEL EDUARDO ZURITA MUÑOZ",
+      "username": "da.zuritam",
+      "password": "123456"
+    } 
+  ]
