@@ -1,2 +1,2 @@
 # Ejemplo01
-Esta es la descripción del primer repositorio creado en GitHub.
+Esta es la descripción de un repositorio creado en GitHub.
